@@ -1,0 +1,11 @@
+fashion_id,fashion_name,brand,min_price,max_price
+1,"Casual Suits Collection",Zellbury,1000.00,4000.00
+2,"Fast Fashion Pret",Limelight,990.00,7000.00
+3,"Ethnic Fusion Wear",Khaadi,2000.00,12000.00
+4,"Luxury Lawn Collection",Sapphire,2500.00,15000.00
+5,"Premium Lawn Unstitched","Gul Ahmed",2000.00,18000.00
+6,"Formal Party Wear","Sana Safinaz",3500.00,20000.00
+7,"Office Wear Cotton","Alkaram Studio",1800.00,10000.00
+8,"Festive Lawn Collection","Bonanza Satrangi",1500.00,8000.00
+9,"Heavy Embroidery Luxury","Asim Jofa",4500.00,25000.00
+10,"Casual Elegant Fusion",Beechtree,1200.00,6500.00

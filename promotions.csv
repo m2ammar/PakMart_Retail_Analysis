@@ -1,0 +1,7 @@
+promotion_id,promotion_name,promotion_type,season,discount_percent,start_date,end_date
+1,"Ramzan Sale 2024",Seasonal,Ramzan,20.00,2024-03-11,2024-04-10
+2,"Eid ul Fitr Sale 2024",Seasonal,"Eid ul Fitr",30.00,2024-04-10,2024-04-12
+3,"Eid ul Adha Sale 2024",Seasonal,"Eid ul Adha",25.00,2024-06-17,2024-06-19
+4,"Independence Day Sale 2024",Seasonal,"Independence Day",14.00,2024-08-14,2024-08-16
+5,"Daraz 11.11 Sale 2024","Flash Sale","Daraz 11.11",40.00,2024-11-11,2024-11-11
+6,"Daraz 12.12 Sale 2024","Flash Sale","Daraz 12.12",35.00,2024-12-12,2024-12-12

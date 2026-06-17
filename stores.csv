@@ -1,0 +1,25 @@
+store_id,store_name,city,store_size,open_date
+1,"PakMart Saddar",Karachi,Large,2019-03-15
+2,"PakMart Gulshan",Karachi,Medium,2020-07-01
+3,"PakMart DHA",Karachi,Large,2018-11-20
+4,"PakMart Korangi",Karachi,Small,2021-05-10
+5,"PakMart Gulberg",Lahore,Large,2017-09-01
+6,"PakMart DHA Lahore",Lahore,Large,2019-01-15
+7,"PakMart Johar Town",Lahore,Medium,2020-04-22
+8,"PakMart Model Town",Lahore,Medium,2021-08-30
+9,"PakMart Blue Area",Islamabad,Large,2018-06-10
+10,"PakMart F-10",Islamabad,Medium,2020-02-14
+11,"PakMart G-9",Islamabad,Medium,2021-11-05
+12,"PakMart E-11",Islamabad,Small,2022-03-18
+13,"PakMart Sialkot Cantt",Sialkot,Large,2019-07-25
+14,"PakMart Sialkot City",Sialkot,Medium,2020-10-12
+15,"PakMart Wazirabad Road",Sialkot,Small,2021-06-08
+16,"PakMart Paris Road",Sialkot,Medium,2022-01-20
+17,"PakMart Jaranwala Road",Faisalabad,Large,2018-04-05
+18,"PakMart Susan Road",Faisalabad,Large,2019-09-17
+19,"PakMart Peoples Colony",Faisalabad,Medium,2021-02-28
+20,"PakMart Ghulam Muhammad Abad",Faisalabad,Small,2022-07-14
+21,"PakMart Gwadar Port",Gwadar,Large,2020-12-01
+22,"PakMart Gwadar City",Gwadar,Medium,2021-09-10
+23,"PakMart Eastbay",Gwadar,Small,2022-05-22
+24,"PakMart Sangar",Gwadar,Small,2023-01-15

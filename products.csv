@@ -1,0 +1,41 @@
+product_id,product_name,category,category_item_id
+1,"Dal Chana",Groceries,1
+2,Sugar,Groceries,2
+3,"Wheat Flour",Groceries,3
+4,"Basmati Rice",Groceries,4
+5,"Cooking Oil",Groceries,5
+6,"Cooking Oil/Ghee",Groceries,6
+7,Tea,Groceries,7
+8,Salt,Groceries,8
+9,"Red Chili Powder",Groceries,9
+10,"Milk UHT",Groceries,10
+11,"LCD Writing Tablet 8.5"",Electronics,1
+12,"Digital Kitchen Scale 10kg",Electronics,2
+13,"Electronic Body Weight Scale",Electronics,3
+14,"Waterproof Bluetooth Smartwatch",Electronics,4
+15,"Single Tub Washing Machine 10kg",Electronics,5
+16,"32" Android Smart LED TV",Electronics,6
+17,"32" Full HD Android LED TV",Electronics,7
+18,"1.0 Ton Inverter AC",Electronics,8
+19,"17kg Fully Automatic Washing Machine",Electronics,9
+20,"75" 4K Ultra HD Android LED TV",Electronics,10
+21,"Casual Suits Collection",Fashion,1
+22,"Fast Fashion Pret",Fashion,2
+23,"Ethnic Fusion Wear",Fashion,3
+24,"Luxury Lawn Collection",Fashion,4
+25,"Premium Lawn Unstitched",Fashion,5
+26,"Formal Party Wear",Fashion,6
+27,"Office Wear Cotton",Fashion,7
+28,"Festive Lawn Collection",Fashion,8
+29,"Heavy Embroidery Luxury",Fashion,9
+30,"Casual Elegant Fusion",Fashion,10
+31,"3D Wooden Wall Art",Home,1
+32,"Door Draft & Insect Stopper",Home,2
+33,"Kitchen & Bathroom Organizer",Home,3
+34,"Foldable Fabric Storage Cubes",Home,4
+35,"Floating Wall Shelves",Home,5
+36,"Cushions & Sofa Covers",Home,6
+37,"Electric Bakhoor Burner",Home,7
+38,"Sunset Lamp & LED Nightlight",Home,8
+39,"Ottoman Stool & Footrest",Home,9
+40,"Fabric Shaver & Lint Remover",Home,10
