@@ -8,7 +8,7 @@ Note: Sales data is randomly generated via a stored procedure (pakmart_sales.sql
 
 Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/PakMartRetailAnalytics/PakMartRetailAnalytics)
 
-Database Schema
+## Database Schema
 ![ER Diagram 1](PakMart_Retail_ER1.png)
 ![ER Diagram 2](PakMart_Retail_ER2.png)
 
