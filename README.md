@@ -1,4 +1,4 @@
-PakMart Retail Analysis
+# PakMart Retail Analysis
 A self-built SQL + Tableau project simulating a Pakistani retail chain (PakMart) with realistic product categories, customer names, store locations, and promotional events — built entirely from scratch by M. Ammar.
 
 Note: Sales data is randomly generated via a stored procedure (pakmart_sales.sql) and does not reflect real business insights. All other data (products, customers, stores, promotions) uses realistic Pakistani names and locations.
@@ -6,7 +6,7 @@ Note: Sales data is randomly generated via a stored procedure (pakmart_sales.sql
 
 ![Dashboard](PakMart_Retail_Dashboard.png)
 
-Live Dashboard:[View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/PakMartRetailAnalytics/PakMartRetailAnalytics)
+Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/PakMartRetailAnalytics/PakMartRetailAnalytics)
 
 Database Schema
 ![ER Diagram 1](PakMart_Retail_ER1.png)
