@@ -4,6 +4,7 @@ A self-built SQL + Tableau project simulating a Pakistani retail chain (PakMart)
 Note: Sales data is randomly generated via a stored procedure (pakmart_sales.sql) and does not reflect real business insights. All other data (products, customers, stores, promotions) uses realistic Pakistani names and locations.
 
 
+## Dashboard
 ![Dashboard](PakMart_Retail_Dashboard.png)
 
 Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/PakMartRetailAnalytics/PakMartRetailAnalytics)
@@ -12,6 +13,7 @@ Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/
 ![ER Diagram 1](PakMart_Retail_ER1.png)
 ![ER Diagram 2](PakMart_Retail_ER2.png)
 
+## Business Questions & SQL Analysis
 | # | Business Question | Technique Used |
 |---|---|---|
 | 1 | What is the total revenue per promotion? | GROUP BY, SUM |
